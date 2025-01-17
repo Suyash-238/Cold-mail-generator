@@ -8,7 +8,8 @@ Imagine a scenario:
 Nike needs a Principal Software Engineer and is spending time and resources in the hiring process, on boarding, training etc
 Let us consider a company named Atliq is Software Development company can provide a dedicated software development engineer to Nike. So, the business development executive (Mohan) from Atliq is going to reach out to Nike via a cold email.
 
-![img.png](imgs/img.png)
+![Uploading image.png…]()
+
 
 Architecture Diagram
 
